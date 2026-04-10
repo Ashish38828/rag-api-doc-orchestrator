@@ -16,7 +16,7 @@ This backend orchestrator solves both the productivity and security bottlenecks 
 * **Framework:** Maven
 * **AI Orchestration:** LangChain4j
 * **Vector Database:** ChromaDB (via Docker)
-* **LLM & Embeddings:** OpenAI SDK (Easily swappable to locally hosted Mistral/Ollama via LangChain4j interfaces)
+* **LLM & Embeddings:** OpenAI SDK
 * **Observability:** Log4j2
 
 ## System Architecture
