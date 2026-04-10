@@ -21,4 +21,5 @@ This backend orchestrator solves both the productivity and security bottlenecks 
 
 ## System Architecture
 `API Docs` -> `Document Splitter` -> `Embedding Model` -> `ChromaDB Vector Store`
+
 `User Query` -> `Vector Search` -> `Retrieved Context + Prompt` -> `LLM` -> `Exact Test Payload`
